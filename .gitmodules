@@ -1,0 +1,6 @@
+[submodule "FactorVAE"]
+	path = FactorVAE
+	url = https://github.com/tloen/FactorVAE.git
+[submodule "sylvester-flows"]
+	path = sylvester-flows
+	url = https://github.com/riannevdberg/sylvester-flows.git
